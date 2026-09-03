@@ -2,7 +2,7 @@
 Resume
 # Hi, I'm Apurv Samanta 👋
 
-### B.Tech Student | Artificial Intelligence & Machine Learning | Aspiring AI/ML Engineer
+### B.Tech Student | Artificial Intelligence & Machine Learning | Aspiring AI/ML Engineer ,From VIT Bhopal University
 
 I'm a B.Tech student specializing in **Artificial Intelligence & Machine Learning**, interested in building practical projects using machine learning, data science, and software development.
 
