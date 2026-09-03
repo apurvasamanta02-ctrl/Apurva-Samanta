@@ -94,12 +94,9 @@ An AI/ML-based project designed to analyze Formula 1 telemetry and race data to 
 
 ---
 
-## 📫 Connect With Me
+🏆 Certifications
 
-* 💼 LinkedIn: **[Add your LinkedIn URL]**
-* 📧 Email: **[Add your email]**
-* 🐙 GitHub: **[Add your GitHub URL]**
-
----
 
 ⭐ **Thanks for visiting my profile!**
+
+
