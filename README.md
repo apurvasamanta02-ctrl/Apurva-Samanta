@@ -95,7 +95,7 @@ An AI/ML-based project designed to analyze Formula 1 telemetry and race data to 
 ---
 
 🏆 Certifications
-
+https://github.com/apurvasamanta02-ctrl/certificates.git
 
 ⭐ **Thanks for visiting my profile!**
 
